@@ -1,7 +1,7 @@
 # Amazon-Reviews-using-Sentiment-Analysis
 Applying sentiment analysis on Amazon's product reviews.
 
-**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_]("").**
+**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_](https://nbviewer.org/github/divyanshu887/Amazon-Reviews-using-Sentiment-Analysis/blob/main/Sentiment%20analysis%20on%20Amazon%27s%20product%20reviews.ipynb).**
 
 <img src="https://www.revuze.it/wp-content/uploads/2019/07/sentiment-analysis.png">
 
