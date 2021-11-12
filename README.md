@@ -16,4 +16,7 @@ I have also provided the direct link below if you wish to view the dataset I use
 
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib and Scikit-Learn.
 
-This was my first project using Python, and I look forward to contributing to the community!
+
+
+
+## Do Give a ⭐ if you like it 
